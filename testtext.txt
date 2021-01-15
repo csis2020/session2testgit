@@ -1,1 +1,5 @@
 I will change this file to practice git usage.
+
+
+Oh it works!! I need to practice more!!
+At first, I will see the video of git / git hub
