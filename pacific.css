@@ -1,0 +1,56 @@
+body{
+    /*background-image:linear-gradient(to bottom, rgb(25, 180, 228),rgb(25, 180, 228)); */
+    background-image:linear-gradient(rgb(25, 180, 228), white,  rgb(25, 180, 228))
+}
+
+#wrapper{
+    width: 85%;
+    margin: auto;
+    margin: 30px 60px;
+    
+    /*border: 5px solid rgb(19, 161, 197);*/
+    box-shadow: 3px 3px 3px  black;
+    /*box-shadow: 3px 3px 10px 10px black;*/
+    background-color: white;
+    
+}
+
+h1{
+    background-color: rgb(12, 12, 49);
+    color: white;
+    text-indent: 1em;
+    line-height: 200%; 
+    /*padding: 30px;*/
+    margin: 0;
+    background-image: url(images/sunset.jpg);
+    background-repeat: no-repeat;
+    background-position:right;
+ 
+    
+   
+}
+
+nav{
+    background-color: rgb(124, 169, 187);
+    line-height:200%;
+    text-indent:2em;
+    
+}
+
+nav a{
+    text-decoration: none;
+}
+
+main{    
+    margin: 0px 30px;
+    
+}
+#headImg{
+
+}
+
+footer{
+    font-style: italic;
+    font-size: 0.8em;
+    text-align:center;
+}
